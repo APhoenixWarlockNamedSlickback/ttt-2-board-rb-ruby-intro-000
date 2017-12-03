@@ -10,4 +10,4 @@ def change_my_name
   return name
 end
 
-puts name
+puts change_my_name
