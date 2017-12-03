@@ -3,3 +3,10 @@ def stylish_chef
   return "Martha Stewart"
   "Guy Fieri"
 end
+
+def change_my_name
+  name = "Ted"
+  puts name.reverse
+  return name
+end
+
