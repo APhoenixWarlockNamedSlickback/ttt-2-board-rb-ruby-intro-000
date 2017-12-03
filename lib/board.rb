@@ -11,3 +11,4 @@ def change_my_name
 end
 
 puts change_my_name
+puts stylish_chef
