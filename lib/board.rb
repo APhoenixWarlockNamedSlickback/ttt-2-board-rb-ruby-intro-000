@@ -7,7 +7,7 @@ end
 def change_my_name
   name = "Ted"
   puts name.reverse
-  return name
+  return name.upcase
 end
 
 puts change_my_name
