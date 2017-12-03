@@ -12,3 +12,4 @@ end
 
 puts change_my_name
 puts stylish_chef
+puts stylish_chef.reverse
