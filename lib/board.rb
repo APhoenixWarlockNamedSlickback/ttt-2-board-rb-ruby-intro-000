@@ -3,3 +3,7 @@ def greeting
 end
 
 greeting
+greeting
+greeting.reverse
+greeting
+greeting.upcase
